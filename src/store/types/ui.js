@@ -1,0 +1,2 @@
+export const SET_PROFILE = "SET_PROFILE";
+export const SET_WALLET_CONNECT = "SET_WALLET_CONNECT";
